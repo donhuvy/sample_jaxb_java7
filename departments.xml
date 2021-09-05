@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:department xmlns:ns2="http://example.com/jaxb">
+    <deptNo>SALES</deptNo>
+    <deptName>ACCOUNTING</deptName>
+    <employees>
+        <employee>
+            <empNo>20160922</empNo>
+            <empName>Nguyen Bich Van</empName>
+        </employee>
+        <employee>
+            <empNo>20150724</empNo>
+            <empName>Nguyen Viet Hung</empName>
+            <managerNo>20160922</managerNo>
+        </employee>
+        <employee>
+            <empNo>20140821</empNo>
+            <empName>Nguyen Tien Nam</empName>
+        </employee>
+    </employees>
+</ns2:department>
